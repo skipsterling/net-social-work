@@ -14,3 +14,7 @@ Be sure to install MongoDB before testing each path in the Insomnia software.
 
 ## Usage
 Taking a NoSQL database approach in this project. It is made to show the backend of a social network API and how this would work while taking a NoSQL database approach. Users add their thoughts plus they can also add or remove friends. Users can also react to other peoples thoughts. Thoughts can be updated or deleted. 
+
+Here is an image of all the Insomnia route testing routes set up. 
+<img src="./assets/img/IRSU.png" alt="image of insomnia testing.">
+Due to the amount of testing options i'm not going to show you how to do all of them by adding images. However if you would like to see more on how to... Please watch my <a href="">Walk through video</a>
