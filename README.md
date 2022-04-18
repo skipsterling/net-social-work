@@ -17,7 +17,7 @@ Taking a NoSQL database approach in this project. It is made to show the backend
 
 Here is an image of all the Insomnia route testing routes set up. 
 <img src="./assets/img/IRSU.png" alt="image of insomnia testing.">
-Due to the amount of testing options i'm not going to show you how to do all of them by adding images. However if you would like to see more on how to... Please watch my <a href="">Walk through video</a>
+Due to the amount of testing options i'm not going to show you how to do all of them by adding images. However if you would like to see more on how to... Please watch my <a href="https://drive.google.com/file/d/1TrjQ8DhsUHjltk37yU5OzGBOycAlBQxe/view?usp=sharing">Walk through video</a>
 
 ## Questions
 If you have any questions regarding this project you can find my contact details via my <a href="https://github.com/skipsterling">GitHub</a>
